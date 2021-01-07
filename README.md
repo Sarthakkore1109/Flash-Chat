@@ -1,6 +1,6 @@
-# sensor_check_app
+# Flash Chat
 
-A new Flutter application.
+A modern messaging app where users can sign up and log in to chat
 
 ## Getting Started
 
